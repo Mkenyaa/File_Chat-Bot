@@ -1,10 +1,8 @@
-```markdown
 ### Streamlit App for Document Q&A
 
 This Streamlit app allows users to upload JSON, CSV, and PDF files and enables Q&A with the uploaded documents using Langchain's RAG (Retrieval-Augmented Generation) approach. The app uses Chroma DB as the vector store and GPT-4 as the model. Users are prompted to enter their OpenAI API key.
 
 ### Prerequisites
-```
 - Python 3.6 or higher
 - Pip (Python package installer)
 ```
