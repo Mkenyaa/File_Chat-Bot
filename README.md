@@ -5,8 +5,7 @@ This Streamlit app allows users to upload JSON, CSV, and PDF files and enables Q
 ### Prerequisites
 - Python 3.6 or higher
 - Pip (Python package installer)
-```
-```
+
 ### Setup Instructions
 
 ### Step 1: Clone the Repository
